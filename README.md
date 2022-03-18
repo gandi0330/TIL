@@ -21,7 +21,7 @@
 - [baekjoon](https://github.com/gandi0330/TIL/tree/main/Algorithm/Baekjoon)
 - [swea](https://github.com/gandi0330/TIL/tree/main/Algorithm/SWEA)
 
-### SQL
+### Database
 - [데이터 모델의 이해](https://github.com/gandi0330/TIL/blob/main/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
 - [엔터티](https://github.com/gandi0330/TIL/blob/main/Database/%EC%97%94%ED%84%B0%ED%8B%B0.md)
 - [속성](https://github.com/gandi0330/TIL/blob/main/Database/%EC%86%8D%EC%84%B1.md)
