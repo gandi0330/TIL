@@ -1,8 +1,46 @@
 # TIL
 
+## CS
+
+### 네트워크
+
+- [Http 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/Http%20Protocol.md)
+- [TCP 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/TCP%203-way-handshake%2C%204-way-handshake.md)
+
+### Database
+- [데이터 모델의 이해](https://github.com/gandi0330/TIL/blob/main/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
+- [엔터티](https://github.com/gandi0330/TIL/blob/main/Database/%EC%97%94%ED%84%B0%ED%8B%B0.md)
+- [속성](https://github.com/gandi0330/TIL/blob/main/Database/%EC%86%8D%EC%84%B1.md)
+- [관계](https://github.com/gandi0330/TIL/blob/main/Database/%EA%B4%80%EA%B3%84.md)
+- [식별자](https://github.com/gandi0330/TIL/blob/main/Database/%EC%8B%9D%EB%B3%84%EC%9E%90.md)
+- [정규화](https://github.com/gandi0330/TIL/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
+- [반정규화](https://github.com/gandi0330/TIL/blob/main/Database/%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
+- [트랜잭션](https://github.com/gandi0330/TIL/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+
+<br>
+<br>
+
+##  Algorithm
+- [baekjoon](https://github.com/gandi0330/TIL/tree/main/Algorithm/Baekjoon)
+- [swea](https://github.com/gandi0330/TIL/tree/main/Algorithm/SWEA)
+- [유니온 파인드](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C.md)
+- [크루스칼](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC.md)
+- [트리](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%ED%8A%B8%EB%A6%AC.md)
+- [리스트](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+- [큐와 스택](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%ED%81%90%EC%99%80%20%EC%8A%A4%ED%83%9D.md)
+
+<br>
+<br>
+
+## 언어
+
 ### Java
+- [동적바인딩](https://github.com/gandi0330/TIL/blob/main/Java/%EB%8F%99%EC%A0%81%EB%B0%94%EC%9D%B8%EB%94%A9.md)
+- [다형성](https://github.com/gandi0330/TIL/blob/main/Java/%EB%8B%A4%ED%98%95%EC%84%B1.md)
+- [super()생성자](https://github.com/gandi0330/TIL/blob/main/Java/super()%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
+- [싱글톤 디자인패턴](https://github.com/gandi0330/TIL/blob/main/Java/Singleton%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4.md)
 
-
+[Effective Java 정리노트](https://github.com/gandi0330/Effective-Java-3E-Readingnotes)
 
 ### JavaScript
 - [실행방법과 실습환경](https://github.com/gandi0330/TIL/blob/main/JavaScript/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EC%8B%A4%ED%96%89%EB%B0%A9%EB%B2%95%EA%B3%BC%20%EC%8B%A4%EC%8A%B5%ED%99%98%EA%B2%BD.md)
@@ -17,19 +55,6 @@
 - [정규식표현](https://github.com/gandi0330/TIL/blob/main/JavaScript/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EC%A0%95%EA%B7%9C%EC%8B%9D%ED%91%9C%ED%98%84.md)
 - [생성자와 new](https://github.com/gandi0330/TIL/blob/main/JavaScript/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80%20new.md)
 
-###  Algorithm
-- [baekjoon](https://github.com/gandi0330/TIL/tree/main/Algorithm/Baekjoon)
-- [swea](https://github.com/gandi0330/TIL/tree/main/Algorithm/SWEA)
-
-### Database
-- [데이터 모델의 이해](https://github.com/gandi0330/TIL/blob/main/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
-- [엔터티](https://github.com/gandi0330/TIL/blob/main/Database/%EC%97%94%ED%84%B0%ED%8B%B0.md)
-- [속성](https://github.com/gandi0330/TIL/blob/main/Database/%EC%86%8D%EC%84%B1.md)
-- [관계](https://github.com/gandi0330/TIL/blob/main/Database/%EA%B4%80%EA%B3%84.md)
-- [식별자](https://github.com/gandi0330/TIL/blob/main/Database/%EC%8B%9D%EB%B3%84%EC%9E%90.md)
-- [정규화](https://github.com/gandi0330/TIL/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
-- [반정규화](https://github.com/gandi0330/TIL/blob/main/Database/%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
-- [트랜잭션](https://github.com/gandi0330/TIL/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
 ### Git
 - [규칙적인 commit 메세지 작성방법](https://github.com/gandi0330/TIL/blob/main/Git/%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8%20commit%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%9E%91%EC%84%B1%EB%B0%A9%EB%B2%95.md)
