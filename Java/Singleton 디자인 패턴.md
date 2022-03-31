@@ -1,4 +1,4 @@
-# Singleton 디자인 패턴 (수정중)
+# Singleton 디자인 패턴
 
 
 
