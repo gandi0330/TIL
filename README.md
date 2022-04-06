@@ -9,6 +9,11 @@
 - [TCP와 UDP 차이](https://github.com/gandi0330/TIL/blob/main/Network/TCP%EC%99%80%20UDP%20%EC%B0%A8%EC%9D%B4.md)
 - [HTTP와 HTTPS 차이](https://github.com/gandi0330/TIL/blob/main/Network/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [DNS Round Robin](https://github.com/gandi0330/TIL/blob/main/Network/DNS%20Round%20Robin%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md)
+- [OSI 7계층](https://github.com/gandi0330/TIL/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
+
+### OS
+- [프로세스와 스레드의 차이](https://github.com/gandi0330/TIL/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
 
 ### Database
 - [데이터 모델의 이해](https://github.com/gandi0330/TIL/blob/main/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%9D%B4%ED%95%B4.md)
