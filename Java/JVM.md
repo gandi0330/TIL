@@ -78,24 +78,33 @@ GC를 수행하는 모듈이 있다.
 프로그램을 수행하기 위해 OS에서 할당받은 메모리 공간
 
 
-1) PC Register 
+#### 1) PC Register 
 
 - Thread가 시작될 때 생성되며 각 Thread마다 하나씩 존재
 - Thread가 어떤 부분을 어떤 명령으로 실행해야할지 기록된 부분
 - 현재 수행중인 JVM  명령의 주소를 가짐
 
-2) JVM 스택 영역
+<br>
+<br>
+
+#### 2) JVM 스택 영역
 
 - 프로그램 실행과정에서 임시로 할당되었다 메서드를 빠져나가면 소멸되는 특성의 데이터를 저장하기 위한 영역
 - 변수, 임시 데이터, 스레드, 메서드 등을 저장
 - 메서드 호출 시 마다 각각의 스택 프레임이 생성되고 메서드가 끝나면 프레임 별로 삭제
 - 메서드 안에서 사용되는 지역 변수를 저장하고 매개변수, 리턴 값, 연산 값 들을 임시로 저장
 
-3) Native method stack
+<br>
+<br>
+
+#### 3) Native method stack
 
 - Java가 아닌 다른 언어로 작성된 코드를 위한 공간으로 Java Native Interface를 통해 바이트 코드로 전환하여 저장된다.
 
-4) Method Area (= Class area = Static area)
+<br>
+<br>
+
+#### 4) Method Area (= Class area = Static area)
 
 - 클래스 정보를 처음 메모리 공간에 올릴 때 초기화 되는 대상을 저장하기 위한 메모리 공간
 - Field Information : 멤버 변수, 데이터 타입, 접근 제어자
@@ -103,7 +112,10 @@ GC를 수행하는 모듈이 있다.
 - Type Information : 클래스인지, 인터페이스인지, 속성, 전체 이름, super class의 이름 등
 - 추가로 상수 자료형을 저장하고 중복을 막는 역할인 Runtime Constant Pool도 존재
 
-5) Heap 
+<br>
+<br>
+
+#### 5) Heap 
 
 - 객체를 저장하는 가상 메모리 영역
 - new 연산자로 생성된 객체와 배열을 저장 ( Method area 영역의 데이터로도 객체 생성 가능)
