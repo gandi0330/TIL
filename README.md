@@ -4,7 +4,7 @@
 
 ### 네트워크
 
-- [Http 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/Http%20Protocol.md)
+- [Http 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/Http%20Protocol.md).
 - [TCP 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/TCP%203-way-handshake%2C%204-way-handshake.md)
 - [TCP와 UDP 차이](https://github.com/gandi0330/TIL/blob/main/Network/TCP%EC%99%80%20UDP%20%EC%B0%A8%EC%9D%B4.md)
 - [HTTP와 HTTPS 차이](https://github.com/gandi0330/TIL/blob/main/Network/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
