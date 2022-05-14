@@ -26,6 +26,8 @@
 - [정규화](https://github.com/gandi0330/TIL/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - [반정규화](https://github.com/gandi0330/TIL/blob/main/Database/%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - [트랜잭션](https://github.com/gandi0330/TIL/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+- [JDBC](https://github.com/gandi0330/TIL/blob/main/Database/JDBC.md)
+- [NoSQL](https://github.com/gandi0330/TIL/blob/main/Database/NoSQL.md)
 
 <br>
 <br>
@@ -55,6 +57,7 @@
 - [Collection](https://github.com/gandi0330/TIL/blob/main/Java/Collection.md)
 - [Annotation](https://github.com/gandi0330/TIL/blob/main/Java/Annotation.md)
 - [오버라이딩과 오버로딩](https://github.com/gandi0330/TIL/blob/main/Java/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
+- [Call by value](https://github.com/gandi0330/TIL/blob/main/Java/Call%20by%20value.md)
 
 
 [Effective Java 정리노트](https://github.com/gandi0330/Effective-Java-3E-Readingnotes)
@@ -72,6 +75,10 @@
 - [정규식표현](https://github.com/gandi0330/TIL/blob/main/JavaScript/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EC%A0%95%EA%B7%9C%EC%8B%9D%ED%91%9C%ED%98%84.md)
 - [생성자와 new](https://github.com/gandi0330/TIL/blob/main/JavaScript/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EC%83%9D%EC%84%B1%EC%9E%90%EC%99%80%20new.md)
 
+<br>
+<br>
 
-### Git
+## 개발 상식
+
+- [REST API](https://github.com/gandi0330/TIL/blob/main/Web%20%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/REST%20API.md)
 - [규칙적인 commit 메세지 작성방법](https://github.com/gandi0330/TIL/blob/main/Git/%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8%20commit%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%9E%91%EC%84%B1%EB%B0%A9%EB%B2%95.md)
