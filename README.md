@@ -7,6 +7,8 @@
     
 - [네트워크란?](https://github.com/gandi0330/TIL/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EB%9E%80%3F.md)
 - [네트워크 모델](https://github.com/gandi0330/TIL/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%AA%A8%EB%8D%B8.md)
+- [데이터 링크 계층 (2계층)](https://github.com/gandi0330/TIL/blob/main/Network/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)
+- [네트워크 계층 (3계층)](https://github.com/gandi0330/TIL/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%84%EC%B8%B5%EA%B3%BC%20IP.md)
 - [Http 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/Http%20Protocol.md)
 - [TCP 프로토콜](https://github.com/gandi0330/TIL/blob/main/Network/TCP%203-way-handshake%2C%204-way-handshake.md)
 - [TCP와 UDP 차이](https://github.com/gandi0330/TIL/blob/main/Network/TCP%EC%99%80%20UDP%20%EC%B0%A8%EC%9D%B4.md)
