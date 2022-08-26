@@ -46,6 +46,7 @@
     </div>
   </details>
 
+[면접질문 모음](https://github.com/gandi0330/TIL/tree/main/CS)
 
 
 <br>
