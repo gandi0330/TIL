@@ -48,3 +48,5 @@ AppConfig의 등장으로 애플리케이션이 사용 영역과 구성 영역�
 
 때문에 구현체(할인 정책)를 바꾸더라도 구성 영역만 영향을 받고 사용 영역은 영향을 받지 않는다
 ![a](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/38855d46-c3e8-4010-a4d6-a8559a2289c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221011%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221011T121958Z&X-Amz-Expires=86400&X-Amz-Signature=80c719efab2c5d11d530f6af8e6184bf1afae45c9d0b6eab8d2c926dfd753b76&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+[출처](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
