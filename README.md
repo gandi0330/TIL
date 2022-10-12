@@ -105,6 +105,9 @@
 
 ### Spring
 - [객체지향 설계와 스프링](https://github.com/gandi0330/TIL/blob/main/Spring/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%EC%99%80%20%EC%8A%A4%ED%94%84%EB%A7%81.md)
+- [AppConfig의 등장](https://github.com/gandi0330/TIL/blob/main/Spring/AppConfig%EC%9D%98%20%EB%93%B1%EC%9E%A5.md)
+- [IoC, DI, 컨테이너](https://github.com/gandi0330/TIL/blob/main/Spring/IoC%2C%20DI%2C%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+
 
 <br>
 <br>
@@ -114,3 +117,4 @@
 
 - [REST API](https://github.com/gandi0330/TIL/blob/main/Web%20%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/REST%20API.md)
 - [규칙적인 commit 메세지 작성방법](https://github.com/gandi0330/TIL/blob/main/Git/%EA%B7%9C%EC%B9%99%EC%A0%81%EC%9D%B8%20commit%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%9E%91%EC%84%B1%EB%B0%A9%EB%B2%95.md)
+- [인증 방식의 종류 Cookie, Session, Token](https://github.com/gandi0330/TIL/blob/main/Web%20%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98%2C%20%ED%86%A0%ED%81%B0%20%EC%9D%B8%EC%A6%9D%EB%B0%A9%EC%8B%9D.md)
