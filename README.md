@@ -60,6 +60,10 @@
 - [트리](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%ED%8A%B8%EB%A6%AC.md)
 - [리스트](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 - [큐와 스택](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%ED%81%90%EC%99%80%20%EC%8A%A4%ED%83%9D.md)
+- [프림](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/%ED%94%84%EB%A6%BC.md)
+- [LIS](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/LIS%20%EC%B5%9C%EC%9E%A5%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4.md)
+- [다익스트라](https://github.com/gandi0330/TIL/blob/main/Algorithm/Data%20Structure/Dijkstra_PriorityQueue.java)
+
 
 <br>
 <br>
